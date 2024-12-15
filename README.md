@@ -90,7 +90,7 @@ sns.heatmap(correlation, annot=True, cmap='rocket')
 ```
 
 ## Heatmap
-![Heatmap](images/heatmap.png)
+![Heatmap](images/Heatmap.png)
 
 
 ### **3.3 Pairplot**
@@ -101,7 +101,7 @@ Relationships between features and the target were visualized using pairplots:
 sns.pairplot(data, hue='hazardous', palette=['#8A2BE2', '#8B0000'])
 ```
 ## Pairplot
-![Pairplot](images/pairplot.png)
+![Pairplot](images/Pairplot.png)
 
 
 ### **3.4 Handling Outliers**
